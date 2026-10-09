@@ -15,6 +15,7 @@ build/
 # Downloaded data and model weights stay local.
 data/**
 !data/README.md
+Day23-Fusion/
 *.tfrecord
 *.pth
 *.pickle
